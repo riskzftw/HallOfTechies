@@ -1326,6 +1326,17 @@ const data = [
       "https://twitter.com/ShruAg",
     ],
   },
+  {
+    name: "Abhishek Shetye",
+    role: "Senior Sales Manager",
+    image: "https://avatars.githubusercontent.com/u/87817195?s=400&u=97e1bc186c4360a51c46465d4e5b7af18b8cc8bb&v=4",
+    skills: ['AWS', 'HTML', 'Sales', 'Client Acquisition'],
+    link: [
+      "https://github.com/riskzftw",
+      "https://linkedin.com/in/abhishek-shetye-723002179/",
+      "https://twitter.com/Abhishek_ukfdx",
+    ],
+  }
 ];
 
 export default data;
